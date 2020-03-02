@@ -1,0 +1,10 @@
+{
+    "name": "a3-web-app-chat",
+    "version": "1.0.0",
+    "author": "Nathan Jackson",
+    "description": "Assignment 3 for SENG 513 by Nathan Jackson. Web-app for an online chatting system",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.3.0"
+    }
+}
