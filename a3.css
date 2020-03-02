@@ -39,6 +39,7 @@ html, body {
     margin: 0 auto;
 
     width: 80%;
+    height: 1px;
     color: white;
 
     border-top: 4px solid white;
@@ -51,7 +52,7 @@ html, body {
     
     list-style-type: none;
     height: 83%;
-    overflow: scroll;
+    overflow: auto;
     padding: 10px;
 }
 
@@ -69,7 +70,7 @@ html, body {
 .messageList > ul {
     list-style-type: none;
     height: 100%;
-    overflow: scroll;
+    overflow: auto;
     padding: 10px;
 }
 
